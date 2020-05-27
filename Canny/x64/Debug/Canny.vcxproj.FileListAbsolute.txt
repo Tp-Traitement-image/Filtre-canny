@@ -1,0 +1,2 @@
+C:\Users\Valentin\Desktop\Cours\C++\Canny\x64\Debug\Canny.exe
+C:\Users\Valentin\Desktop\Cours\C++\Canny\x64\Debug\Canny.pdb
